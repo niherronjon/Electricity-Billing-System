@@ -5,6 +5,7 @@ The application uses file handling to ensure data persistence across program exe
 
 
  📌 Features Overview
+ 
 🔐 Admin Management
 
 Secure admin login with username and password
@@ -14,6 +15,8 @@ First-run admin setup if no credentials exist
 Option to change admin username and password
 
 Limited login attempts for security
+
+
 
 👥 Customer Management
 
@@ -29,6 +32,7 @@ Update customer details
 
 Soft delete customers (inactive instead of permanent removal)
 
+
 💡 Billing Management
 
 Enter meter readings and generate bills
@@ -40,6 +44,8 @@ Separate billing logic for Domestic and Commercial customers
 Monthly billing support
 
 Automatic unit consumption calculation
+
+
 
 💰 Payment System
 
