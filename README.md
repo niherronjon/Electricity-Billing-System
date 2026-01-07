@@ -100,3 +100,4 @@ programming concepts such as structures, functions, conditional logic, and file 
 helping students develop strong problem-solving and analytical skills. Ultimately, it
 demonstrates how programming can simplify real-world administrative tasks in utility
 management systems.
+](https://docs.google.com/document/d/1-fYWwMux65qgknTspUM_HFbQNnFzjZ17xWdPWEC8uDI/edit?usp=drivesdk)
