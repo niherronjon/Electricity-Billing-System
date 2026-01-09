@@ -84,12 +84,14 @@ Input Validation
 
 Menu-driven UI
 
+
+
 Compiler: GCC / Any standard C compiler
 
 
 
 
-├── main.c              # Main source code
+├── main.c               # Main source code
 ├── customers.dat       # Stores customer records
 ├── bills.dat           # Stores billing records
 ├── admin.dat           # Stores admin credentials
