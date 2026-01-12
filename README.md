@@ -18,7 +18,7 @@ Limited login attempts for security
 
 
 
-👥 Customer Management
+👥 Customer Management step
 
 Add new customers (Domestic or Commercial)
 
