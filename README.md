@@ -4,7 +4,7 @@ A console-based Electricity Billing System developed in C, designed to manage cu
 The application uses file handling to ensure data persistence across program executions.
 
 
- 📌 Features Overview
+ 📌 Features Overview EBS
  
 🔐 Admin Management
 
